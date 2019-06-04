@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:964993CC-47A3-40D6-8461-50EBA763BF0E</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-07-02T00:04:02-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:2B70685A-FA40-4833-A39B-6FBA232F8D9A</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">2B70685A-FA40-4833-A39B-6FBA232F8D9A</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2012-07-02T00:04:02.001-04:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:9E0BA4AB-3D5E-4071-AF6E-EAC5D4BCAB93</id>
+  <title>Textbooks</title>
+  <title xmlns="urn:iweb:">Textbooks</title>
+  <in-navbar xmlns="urn:iweb:">9E0BA4AB-3D5E-4071-AF6E-EAC5D4BCAB93</in-navbar>
+  <link rel="alternate" href="Textbooks.html"/>
+  <updated>2012-07-02T00:04:02.002-04:00</updated>
+  <content>Textbooks</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:E6115551-48C9-4522-BAE0-3E7D5C01EE89</id>
+  <title>Clubs</title>
+  <title xmlns="urn:iweb:">Clubs</title>
+  <in-navbar xmlns="urn:iweb:">E6115551-48C9-4522-BAE0-3E7D5C01EE89</in-navbar>
+  <link rel="alternate" href="Clubs.html"/>
+  <updated>2012-07-02T00:04:02.003-04:00</updated>
+  <content>Clubs</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B99FE529-473F-48B3-8D91-EF27F1F0BEC7</id>
+  <title>Course-Related</title>
+  <title xmlns="urn:iweb:">Course-Related</title>
+  <in-navbar xmlns="urn:iweb:">B99FE529-473F-48B3-8D91-EF27F1F0BEC7</in-navbar>
+  <link rel="alternate" href="Course-Related.html"/>
+  <updated>2012-07-02T00:04:02.004-04:00</updated>
+  <content>Course-Related</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:E20B3C1D-698D-47A1-9E8A-3B207B173874</id>
+  <title>Smithsonian</title>
+  <title xmlns="urn:iweb:">Smithsonian</title>
+  <in-navbar xmlns="urn:iweb:">E20B3C1D-698D-47A1-9E8A-3B207B173874</in-navbar>
+  <link rel="alternate" href="Smithsonian.html"/>
+  <updated>2012-07-02T00:04:02.005-04:00</updated>
+  <content>Smithsonian</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:607B24BF-029D-4B1D-8CA5-3875B97FBAFA</id>
+  <title>Econ News</title>
+  <title xmlns="urn:iweb:">Econ News</title>
+  <in-navbar xmlns="urn:iweb:">607B24BF-029D-4B1D-8CA5-3875B97FBAFA</in-navbar>
+  <link rel="alternate" href="Econ_News.html"/>
+  <updated>2012-07-02T00:04:02.006-04:00</updated>
+  <content>Econ News</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:37F7BE22-F3E0-4EC0-B726-C63C2C2F1D7B</id>
+  <title>Sustainable Development</title>
+  <title xmlns="urn:iweb:">Sustainable Development</title>
+  <in-navbar xmlns="urn:iweb:">37F7BE22-F3E0-4EC0-B726-C63C2C2F1D7B</in-navbar>
+  <link rel="alternate" href="Sustainable_Development.html"/>
+  <updated>2012-07-02T00:04:02.007-04:00</updated>
+  <content>Sustainable Development</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C6623BA7-3AE1-4B97-925B-899BEBDA7E45</id>
+  <title>MC</title>
+  <title xmlns="urn:iweb:">MC</title>
+  <in-navbar xmlns="urn:iweb:">C6623BA7-3AE1-4B97-925B-899BEBDA7E45</in-navbar>
+  <link rel="alternate" href="MC.html"/>
+  <updated>2012-07-02T00:04:02.008-04:00</updated>
+  <content>MC</content>
+ </entry>
+</feed>
